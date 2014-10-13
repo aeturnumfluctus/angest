@@ -1,3 +1,4 @@
 asset 'angular'
 asset 'underscore'
+asset 'bootstrap'
 asset 'bootstrap-sass-official'
